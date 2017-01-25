@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: fast - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\acer\AppData\Local\Temp\RSP6F28.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/fast.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\度娘網盤\程序\workspace for VC\大二源代码\fast\fast.cpp"
+]
+Creating command line "cl.exe @C:\Users\acer\AppData\Local\Temp\RSP6F28.tmp" 
+Creating temporary file "C:\Users\acer\AppData\Local\Temp\RSP6F29.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/fast.pdb" /debug /machine:I386 /out:"Debug/fast.exe" /pdbtype:sept 
+".\Debug\fast.obj"
+]
+Creating command line "link.exe @C:\Users\acer\AppData\Local\Temp\RSP6F29.tmp"
+<h3>Output Window</h3>
+Compiling...
+fast.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+fast.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
