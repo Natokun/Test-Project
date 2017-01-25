@@ -223,3 +223,5 @@ void SwapList(struct list *L,int n1,int n2)	//Ωªªªn1∫Õn2µƒ ˝◊÷
 	L->i[n1]=L->i[n2];
 	L->i[n2]=temp;
 }
+
+//≤‚ ‘≤‚ ‘¿≤¿≤¿≤¿≤
